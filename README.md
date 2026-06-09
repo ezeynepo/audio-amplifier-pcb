@@ -3,7 +3,7 @@
 ## Overview
 Designed a 3-stage audio amplifier PCB as part of the Microelectronics Laboratory course at Università di Padova.
 
-![PCB Photo](Ekran Resmi 2026-06-09 22.38.50.png)
+![PCB Photo](sch.png)
 ![PCB Photo](pcb.jpg)
 **Stages:**
 - Bandpass filter (16 Hz – 20 kHz)

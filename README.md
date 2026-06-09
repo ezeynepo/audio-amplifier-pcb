@@ -17,10 +17,13 @@ Designed a 3-stage audio amplifier PCB as part of the Microelectronics Laborator
 
 ## Results
 - Hand-soldered all components on the fabricated PCB
+
 | Parameter | Target | Measured |
+|---|---|---|
 | Voltage Gain | 10x | 11x |
 | Bandwidth | 16 Hz – 20 kHz | 23 Hz – 17 kHz |
-(small deviations due to the usage of slightly different component values during the laboratory testing)
+
+*Small deviations due to slightly different component values used during laboratory testing.*
 
 ## Component Selection
 Components selected by reviewing datasheets against load and power supply requirements.

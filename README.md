@@ -16,6 +16,7 @@ Designed a 3-stage audio amplifier PCB as part of the Microelectronics Laborator
 - Lab instruments: oscilloscope, multimeter
 
 ## Results
+- Hand-soldered all components on the fabricated PCB
 | Parameter | Target | Measured |
 | Voltage Gain | 10x | 11x |
 | Bandwidth | 16 Hz – 20 kHz | 23 Hz – 17 kHz |

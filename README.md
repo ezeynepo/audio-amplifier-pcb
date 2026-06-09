@@ -2,7 +2,7 @@
 3-stage audio amplifier PCB: bandpass filter, op-amp, Class AB power stage
 ## Overview
 Designed a 3-stage audio amplifier PCB as part of the Microelectronics Laboratory course at Università di Padova.
-
+![PCB Photo](pcb.png)
 ![PCB Photo](sch.png)
 ![PCB Photo](PCB_3d(1).png)
 **Stages:**
